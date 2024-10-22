@@ -1,4 +1,11 @@
 # Resume of [Jaeminjjeong](https://github.com/jaeminjjeong)
+
+# 제목
+## 샵두개 제목
+### 샵세개 부제목
+#### 본문
+
+
 > 이 문서는 축약 이력서로써, 각 단원의 링크를 클릭하면, 상세 페이지로 이동합니다.
 
 ## [1. Outline](https://github.com/samchon/resume/blob/master/STORY.md#1-outline)
