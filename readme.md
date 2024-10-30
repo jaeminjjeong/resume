@@ -1,4 +1,4 @@
-# Resume of [Jaeminjjeong](https://github.com/jaeminjjeong)
+# Resume of [000](https://github.com/jaeminjjeong)
 
 # 제목
 ## 샵두개 제목
