@@ -10,49 +10,43 @@
 
 ## [1. Outline](https://github.com/samchon/resume/blob/master/STORY.md#1-outline)
 ### [1.1. Profile](https://github.com/samchon/resume/blob/master/STORY.md#11-outline)
-이름: 남 정호
+이름: 
 
-  - 생년월일: 1988-03-11
-  - 연락처: 010-3627-0016
-  - Github: https://github.com/samchon
+  - 생년월일: 
+  - 연락처: 
+  - Github: 
 
 ### [1.2. Education](https://github.com/samchon/resume/blob/master/STORY.md#12-education)
 한성대학교, 2011-03 ~ 2014-08
 
-  - 주전공: 정보시스템공학
-  - 복수전공: 경영학
-  - 학점: 4.16 / 4.50
-    - 비고: 조기 졸업
+  - 주전공: 
+  - 복수전공: 
+  - 학점: 
+    - 비고: 
 
 ### [1.3. Awards](https://github.com/samchon/resume/blob/master/STORY.md#13-awards)
-  - [Samchon Simulation](https://github.com/samchon/resume/blob/master/STORY.md#322-samchon-simulation): 한성대 공학경진대회 2012 은상
-  - [Samchon Framework](https://github.com/samchon/resume/blob/master/STORY.md#311-samchon-framework): 공개소프트웨어개발자대회 2015 일반부 동상
-  - [TSTL](https://github.com/samchon/resume/blob/master/STORY.md#312-tstl): 공개소프트웨어개발자대회 2017 일반부 은상
+  - [Project 1](): 공학경진대회 2012 은상
 
 ### [1.4. Skills](https://github.com/samchon/resume/blob/master/STORY.md#14-skills)
 Skill        | Experiences | Careers | Note
 -------------|-------------|---------|-----------------------------------
-C++          | 12 년       | 3 년    | 최신 STL 과 Template Meta Programming 에 능함
-TypeScript   | 8 년        | 4 년    | 현 한국 랭킹 1 위 (git-awards 기준)
-ActionScript | 20 년       | 2 년    | Flex Architecture 를 통해 고급 설계에 입문함
-DB/SQL       | 20 년       | 5 년    | ERD 설계에 능함
+C++          | 0 년       | 0 년    | 최신 STL 과 Template Meta Programming 에 능함
+TypeScript   | 0 년        | 0 년    | 현 한국 랭킹 1 위 (git-awards 기준)
+DB/SQL       | 0 년       | 0 년    | ERD 설계에 능함
 
 ### [1.5. Experiences](https://github.com/samchon/resume/blob/master/STORY.md#15-experiences)
-  - 프로그래밍 경험: 25 년
-  - 총 상용 경력 92 개월
-    - 정규직: 79 개월
-    - 계약직: 13 개월
+  - 프로그래밍 경험: 0 년
+  - 총 상용 경력 0 개월
+    - 정규직: 0 개월
+    - 계약직: 0 개월
 
 Company | Entry Date | Leave Date | Form
 --------|------------|------------|-------
-[스마트케어웍스](https://github.com/samchon/resume/blob/master/STORY.md#41-smartcareworks) | 2014-10    | 2015-02    | 계약직
-[유니텍 해양연구소](https://github.com/samchon/resume/blob/master/STORY.md#42-unitech)     | 2015-05    | 2015-07    | 계약직
-[히즈윌 부설연구소](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2015-10    | 2015-11    | 계약직
-[히즈윌 부설연구소](https://github.com/samchon/resume/blob/master/STORY.md#43-hiswill)     | 2015-11    | 2017-01    | 정규직
-[아이지넷](https://github.com/samchon/resume/blob/master/STORY.md#44-aijinet)             | 2017-01    | 2019-12    | 정규직
-[아이지넷](https://github.com/samchon/resume/blob/master/STORY.md#44-aijinet)             | 2020-01    | 2020-07    | 계약직
-[집토스](https://github.com/samchon/resume/blob/master/STORY.md#45-ziptoss) | 2020-08 | 2020-10 | 정규직
-아키드로우 | 2020-11 | 재직중 | 정규직
+[000]() | 2000-00    | 2000-00    | 계약직
+[00연구소]()     | 2000-00    | 2015-00    | 계약직
+
+[0000]() | 2000-00 | 2000-00 | 정규직
+00000 | 2000-00 | 재직중 | 정규직
 
 
 
